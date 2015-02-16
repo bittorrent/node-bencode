@@ -21,7 +21,7 @@
       "email": "jonas@hojoki.com"
     }
   ],
-  "main": "bencode.js",
+  "main": "lib/bencode",
   "devDependencies": {
     "bencoding": "latest",
     "bncode": "latest",
