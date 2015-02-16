@@ -18,7 +18,8 @@
     },
     {
       "name": "Jonas Hermsmeier",
-      "email": "jonas@hojoki.com"
+      "url": "http://jhermsmeier.de",
+      "email": "jhermsmeier@gmail.com"
     }
   ],
   "main": "lib/bencode",
