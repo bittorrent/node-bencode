@@ -32,8 +32,8 @@
     "tape": "~3.5.0"
   },
   "scripts": {
-    "test": "node node_modules/.bin/tape test/*.test.js | node node_modules/.bin/tap-spec",
-    "bench": "node node_modules/.bin/matcha benchmark/*.js"
+    "test": "tape test/*.test.js | tap-spec",
+    "bench": "matcha benchmark/*.js"
   },
   "repository": {
     "type": "git",
